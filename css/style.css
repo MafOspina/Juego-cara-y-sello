@@ -1,0 +1,60 @@
+#buttons{
+    visibility: hidden;
+}
+
+.box-body{
+    background: rgba(5, 5, 5, 0.926);
+    width: 75%;
+    height: auto;
+    left: 0;
+    right: 0;
+    top: 10%;
+    border: solid 1px #fdb46f;
+    border-radius: 10px;
+    padding: 30px;
+    margin: auto;
+    position: absolute;
+    box-shadow: 0px 10px 20px rgb(62, 61, 61);
+    color: #dc3545;
+    font-size: large;
+}
+
+body{
+    background: url("https://img.freepik.com/fotos-premium/80s-resumen-retro-space-night_122462-69.jpg?w=2000");
+
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1{
+    color: #fdb46f;
+    text-align: center;
+}
+
+h2{
+    color: #fdb46f;
+    text-align: center;
+}
+h3{
+    color: #fdb46f;
+    text-align: center;
+}
+
+#apuesta{
+    border: solid 1px #dc3545;
+    color: rgb(245, 136, 136);
+    background: rgba(5, 5, 5, 0.926);
+    width: 70%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+
+#form{
+    margin-bottom: 10%;
+}
+
+#img-P{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}

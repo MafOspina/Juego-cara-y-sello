@@ -1,0 +1,11 @@
+{
+  "name": "carisellazo",
+  "version": "1.0.0",
+  "description": "Juego de cara y sello",
+  "main": "index.js",
+  "scripts": {
+    "star": "index.html"
+  },
+  "author": "María Fernanda Ospina",
+  "license": "ISC"
+}
